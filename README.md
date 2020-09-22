@@ -1,2 +1,2 @@
-# poc-simple-webpack
+# POC - Simple Webpack
 Simple Webpack structure.
